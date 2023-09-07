@@ -49,6 +49,9 @@ body {
 }
 .apresentacaoLinksBotao{
     border: 2px solid #6369D1;
+    display: flex;
+    justify-content: center;
+    gap: 16px;
     width: 378px;
     text-align: center;
     border-radius: 8px;
@@ -58,4 +61,8 @@ body {
     text-decoration: none;
     color: #f6f6f6;
     font-family: 'Montserrat', sans-serif;
+}
+.apresentacaoLinksBotao:hover{
+    background-color: #272727;
+    color: #6369D1;
 }
