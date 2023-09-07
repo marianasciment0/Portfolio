@@ -80,7 +80,7 @@ body {
     font-weight: 600;
     padding: 21.5px 0;
     text-decoration: none;
-    color: var(--tertiary-color);
+    color: var(--secondary-color);
     font-family: var(--secondary-font);
 }
 .apresentacaoLinksLink:hover{
