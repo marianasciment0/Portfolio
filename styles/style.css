@@ -23,6 +23,7 @@ body {
     font-weight: 60;
     font-size: 20px;
     color: #6369D1;
+    text-decoration: none;
 }
 .apresentacao {
     padding: 5% 6%;
@@ -44,7 +45,7 @@ body {
     color: #6369D1;
 }
 .apresentacaoConteudoTexto {
-    font-size: 24px;
+    font-size: 22px;
     font-family: 'Montserrat', sans-serif;
 }
 .apresentacaoLinks{
