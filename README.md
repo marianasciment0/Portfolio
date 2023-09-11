@@ -1,2 +1,2 @@
 # Portfólio
-Projeto desenvolvido no curso de desenvolvimento Web
+Olá, Bem vindo ao meu projeto de portfólio desenvolvido no curso de Desenvolvimento Web.
